@@ -1,0 +1,6 @@
+- school: 'ABC primary school'
+  location: 'London'
+  ranking: 2
+- school: 'XYZ primary school'
+  location: 'Newyork'
+  ranking: 1
